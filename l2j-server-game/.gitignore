@@ -1,0 +1,9 @@
+.project
+.classpath
+.settings/
+.idea/
+target/
+logs/
+log/
+test-output/
+hexid.txt
